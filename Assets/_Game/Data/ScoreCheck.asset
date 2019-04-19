@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc8ffe970b3ff0941a55e484b469ce52, type: 3}
+  m_Name: ScoreCheck
+  m_EditorClassIdentifier: 
+  lhs:
+    useLocalValue: 0
+    localValue: 0
+    asset: {fileID: 11400000, guid: 0e96b98b68ec9be4ba18432da4ff7665, type: 2}
+  comparison: 3
+  rhs:
+    useLocalValue: 1
+    localValue: 8
+    asset: {fileID: 0}
