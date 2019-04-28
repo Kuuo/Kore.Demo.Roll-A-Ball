@@ -18,6 +18,6 @@ MonoBehaviour:
     asset: {fileID: 11400000, guid: 0e96b98b68ec9be4ba18432da4ff7665, type: 2}
   comparison: 3
   rhs:
-    useLocalValue: 1
+    useLocalValue: 0
     localValue: 8
-    asset: {fileID: 0}
+    asset: {fileID: 11400000, guid: 87fe312897d4fab48be497c8ca2b001b, type: 2}
