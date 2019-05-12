@@ -19,5 +19,5 @@ MonoBehaviour:
   comparison: 3
   rhs:
     useLocalValue: 0
-    localValue: 8
+    localValue: 0
     asset: {fileID: 11400000, guid: 87fe312897d4fab48be497c8ca2b001b, type: 2}
